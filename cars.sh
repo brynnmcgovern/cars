@@ -19,7 +19,7 @@ do
 			echo "Please enter the model"
 			read model
 			str=$str$model
-			echo $str >> my_old_cars
+			echo "$str" >> my_old_cars
 			;;
 		2)
 			sort my_old_cars
