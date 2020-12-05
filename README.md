@@ -1,4 +1,12 @@
-# Application Purpose
+## Identifying Information:
+
+1. Name: Brynn McGovern
+2. Student ID: 2370579
+3. Email: bmcgovern@chapman.edu
+4. Class: CPSC-298-01
+5. Assignment: Cars
+
+## Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
    
@@ -22,3 +30,15 @@ The program will display the lines of the My_old_cars file, sorted by year
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
 
+## Files
+
+1. cars.sh
+2. cars-input
+3. README.md
+
+## Known Errors
+
+## References
+
+## Instructions
+to run the script with input from the included cars-input file: ./cars.sh < cars-input
