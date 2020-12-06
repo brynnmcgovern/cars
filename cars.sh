@@ -3,7 +3,7 @@
 #Brynn McGovern
 
 
-while True;
+while true;
 do
 	echo "Enter 1 to add a car, 2 to list the cars on file, or 3 to quit"
 	read input
